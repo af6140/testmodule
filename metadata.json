@@ -1,6 +1,6 @@
 {
   "name": "af6140-testmodule",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "af6140",
   "summary": "Test puppet module for automation.",
   "license": "Apache-2.0",
