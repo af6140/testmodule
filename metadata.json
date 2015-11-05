@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "af6140",
   "summary": "Test puppet module for automation.",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "source": "https://github.com/af6140/testmodule.git",
   "project_page": "https://github.com/af6140/testmodule",
   "issues_url": "https://github.com/af6140/testmodule/issues",
